@@ -1,0 +1,87 @@
+pcall(function()
+    game.CoreGui:FindFirstChild("dosage's solaris gui").Parent = game.ReplicatedStorage -- please ignore
+    game.CoreGui:FindFirstChild("notiHolder").Parent = game.ReplicatedStorage -- please ignore
+end)
+
+-- Game scripts based on PlaceId and game names
+if game.PlaceId == 1234567890 then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/StupidProAArsenal/UniqueHub/main/lolz%20underground%20war"))() -- The Underground War (PlaceId: 1234567890)
+elseif game.PlaceId == 9876543210 then
+    loadstring(game:HttpGet("loadstring(game:HttpGet("https://rawscripts.net/raw/Bee-Swarm-Simulator-OP-God-Hub-Auto-Farm-Auto-Items-Auto-Honey-Auto-Quest-I-more-18074"))()"))() -- Adopt Me (PlaceId: 9876543210)
+elseif game.PlaceId == 1122334455 then
+    loadstring(game:HttpGet("loadstring(game:HttpGet("https://rawscripts.net/raw/Universal-Script-BlueRed-Hub-V19-OP-Hub-25211"))()"))() -- Brookhaven (PlaceId: 1122334455)
+elseif game.PlaceId == 2233445566 then
+    loadstring(game:HttpGet("loadstring(game:HttpGet("https://rawscripts.net/raw/Murder-Mystery-2-Astral-24580"))()"))() -- Murder Mystery 2 (PlaceId: 2233445566)
+elseif game.PlaceId == 3344556677 then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/StupidProAArsenal/UniqueHub/main/arsenal"))() -- Arsenal (PlaceId: 3344556677)
+elseif game.PlaceId == 4455667788 then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/SurgeDid/Blockburg/main/loader.lua"))() -- Bloxburg (PlaceId: 4455667788)
+elseif game.PlaceId == 5566778899 then
+    loadstring(game:HttpGet("loadstring(game:HttpGet("https://rawscripts.net/raw/UPDATE-Shindo-Life-Premier-X-Free-Version-3237"))()"))() -- Shindo Life (PlaceId: 5566778899)
+elseif game.PlaceId == 6677889900 then
+    loadstring(game:HttpGet("https://rawscripts.net/raw/Tower-of-Hell-STARRY-OP-AUTO-FARM-FLING-GODMODE-AND-MORE-25216"))() -- Tower of Hell (PlaceId: 6677889900)
+elseif game.PlaceId == 7788990011 then
+    loadstring(game:HttpGet("https://rawscripts.net/raw/Jailbreak-BEST-OP-SCRIPT-WITH-LOTS-OP-FEATURES-18726"))() -- Jailbreak (PlaceId: 7788990011)
+elseif game.PlaceId == 8899001122 then
+    loadstring(game:HttpGet("https://rawscripts.net/raw/Level-Farm-and-Gem-Farm_88"))() -- Royale High (PlaceId: 8899001122)
+elseif game.PlaceId == 9900112233 then
+    loadstring(game:HttpGet("https://rawscripts.net/raw/Piggy-BREAKOUT-CHAPTER-Vynixius-4914"))() -- Piggy (PlaceId: 9900112233)
+elseif game.PlaceId == 1011122334 then
+    loadstring(game:HttpGet("https://rawscripts.net/raw/Gem-Auto-Farm-Star-Auto-Farm-Get-Badges_614"))() -- Speed Run 4 (PlaceId: 1011122334)
+elseif game.PlaceId == 1112233445 then
+    loadstring(game:HttpGet("https://rawscripts.net/raw/Natural-Disaster-Survival-Katers-NDS-Hub-19533"))() -- Natural Disaster Survival (PlaceId: 1112233445)
+elseif game.PlaceId == 1223344556 then
+    loadstring(game:HttpGet("https://rawscripts.net/raw/Bee-Swarm-Simulator-OP-God-Hub-Auto-Farm-Auto-Items-Auto-Honey-Auto-Quest-I-more-18074"))() -- Bee Swarm Simulator (PlaceId: 1223344556)
+elseif game.PlaceId == 1334455667 then
+    loadstring(game:HttpGet("https://rawscripts.net/raw/Universal-Script-Desire-Hub-Universal-Chat-Bypass-AND-MORE-25161"))() -- Vehicle Simulator (PlaceId: 1334455667)
+elseif game.PlaceId == 1445566778 then
+    loadstring(game:HttpGet("https://rawscripts.net/raw/Universal-Script-BlueRed-Hub-V19-OP-Hub-25211"))() -- Theme Park Tycoon 2 (PlaceId: 1445566778)
+elseif game.PlaceId == 1556677889 then
+    loadstring(game:HttpGet("https://rawscripts.net/raw/Universal-Script-YARHM-12403"))() -- Flee the Facility (PlaceId: 1556677889)
+elseif game.PlaceId == 1667788990 then
+    loadstring(game:HttpGet("https://rawscripts.net/raw/Universal-Script-RichScript-20034"))() -- Super Bomb Survival (PlaceId: 1667788990)
+elseif game.PlaceId == 1778899001 then
+    loadstring(game:HttpGet("https://rawscripts.net/raw/Universal-Script-unfair-Hub-3936"))() -- SharkBite (PlaceId: 1778899001)
+elseif game.PlaceId == 1889900112 then
+    loadstring(game:HttpGet("https://rawscripts.net/raw/Universal-Script-Shife-Hub-V2-10116"))() -- Murder Mystery X (PlaceId: 1889900112)
+elseif game.PlaceId == 1990011223 then
+    loadstring(game:HttpGet("https://rawscripts.net/raw/Breaking-Point-plus-12451"))() -- Breaking Point (PlaceId: 1990011223)
+elseif game.PlaceId == 1234567890 then
+    loadstring(game:HttpGet("https://rawscripts.net/raw/Counter-Blox:-Remastered-FelixWare-V2-6564"))() -- Counter Blox 1 (PlaceId: 1234567890)
+elseif game.PlaceId == 9876543210 then
+    loadstring(game:HttpGet("https://rawscripts.net/raw/Universal-Script-Counter-Blox-2-24715"))() -- Counter Blox 2 (PlaceId: 9876543210)
+elseif game.PlaceId == 2112233445 then
+    https://scriptblox.com/script/Dungeon-Quest!-RPG-Adventure-auto-sell-21196 -- Dungeon Quest (PlaceId: 2112233445)
+elseif game.PlaceId == 2223344556 then
+    loadstring(game:HttpGet("https://rawscripts.net/raw/UPDATE-+-4X-All-Star-Tower-Defense-Script-has-more-than-20-functions-20600"))() -- All Star Tower Defense (PlaceId: 2223344556)
+elseif game.PlaceId == 2334455667 then
+    loadstring(game:HttpGet("https://rawscripts.net/raw/Autoplayer_278"))() -- Funky Friday (PlaceId: 2334455667)
+elseif game.PlaceId == 2445566778 then
+    loadstring(game:HttpGet("https://rawscripts.net/raw/RELEASE-Anime-Fighting-Simulator-X-Infinite-Chikara-IBA-HUB-6660"))() -- Anime Fighting Simulator (PlaceId: 2445566778)
+elseif game.PlaceId == 2556677889 then
+    loadstring(game:HttpGet("https://rawscripts.net/raw/EVENT-+-UPDCombat-Warriors-AP-dot-NET-Stremeable-AutoParry-25240"))() -- Combat Warriors (PlaceId: 2556677889)
+elseif game.PlaceId == 2667788990 then
+    loadstring(game:HttpGet("https://rawscripts.net/raw/Tower-Defense-Simulator-Simulate-Placing-Towers-5526"))() -- Tower Defense Simulator (PlaceId: 2667788990)
+elseif game.PlaceId == 2778899001 then
+    loadstring(game:HttpGet("https://rawscripts.net/raw/Piggy-BREAKOUT-CHAPTER-Vynixius-4914"))() -- Piggy: Intercity (PlaceId: 2778899001)
+elseif game.PlaceId == 2889900112 then
+    loadstring(game:HttpGet("https://rawscripts.net/raw/Universal-Script-Shindo-Life-2-7741"))() -- Shindo Life 2 (PlaceId: 2889900112)
+elseif game.PlaceId == 2990011223 then
+    loadstring(game:HttpGet("https://rawscripts.net/raw/Roblox-High-School-2-FREE-UGC-item-4321"))() -- Roblox High School 2 (PlaceId: 2990011223)
+elseif game.PlaceId == 3001122334 then
+    loadstring(game:HttpGet("https://rawscripts.net/raw/BOOGA-BOOGA-Classic-Best-Free-Script-Auto-Farm-AutoKill-OP-2164"))()-- Booga Booga (PlaceId: 3001122334)
+elseif game.PlaceId == 3112233445 then
+    loadstring(game:HttpGet("https://rawscripts.net/raw/Build-A-Boat-For-Treasure-Projectwre-bot-21190"))() -- Build A Boat for Treasure (PlaceId: 3112233445)
+elseif game.PlaceId == 3223344556 then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/raimbowo1/test/main/naval"))() -- SharkBite 2 (PlaceId: 3223344556)
+elseif game.PlaceId == 3334455667 then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/RETARDWAR3/retardware-main/main/Korrupt-Zombies.lua"))() -- Zombie Rush (PlaceId: 3334455667)
+elseif game.PlaceId == 3556677889 then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/StupidProAArsenal/UniqueHub/main/sharkbite"))() -- SharkBite (PlaceId: 3556677889)
+elseif game.PlaceId == 3667788990 then
+    loadstring(game:HttpGet('https://raw.githubusercontent.com/Bart3kk/funky-friday-autoplay/main/script.lua'))() -- Funky Friday (PlaceId: 3667788990)
+elseif game.PlaceId == 3889900112 then
+    loadstring(game:HttpGet("https://rawscripts.net/raw/Tower-of-Hell-Script(OPEN-SOURCE!)-4096"))() -- Tower of Heck (PlaceId: 3889900112)
+elseif game.PlaceId == 4001122334 then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/fliptwo/iSPLOIT/main/Mega%20Fun%20Obby", true))() -- Mega Fun Obby (PlaceId: 4001122334)
+end
